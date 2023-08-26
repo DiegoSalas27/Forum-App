@@ -17,5 +17,4 @@ https://pugjs.org/language/interpolation.html
 https://tailwindcss.com/
 ```
 
-## DDoS Demo
-https://www.youtube.com/watch?v=SXk91oJcPMw&t=42s
+DDoS Demo: https://www.youtube.com/watch?v=SXk91oJcPMw&t=42s
